@@ -4,8 +4,8 @@
         
         #############################################
         #                                           #
-        #    FACEBOOK BRUTE ATTACK (TARGET 2020)   #
-        #    GUTHUB : https://github.com/MuhammadYousuf813    #
+        #    FACEBOOK Naimul Islam Nahid   #
+        #    GUTHUB : https://github.com/rk-nahid    #
         #                                           #
         #############################################
 
@@ -30,15 +30,15 @@ print(" \033[1;92m ░░░▄█░▄░░░▀▀▀░░░▄░█▄�
 print(" \033[1;92m ░░░█░░▀█  █  █  █  █▀░░█░░░")
 print(" \033[1;92m ░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░")
 print(" \033[1;92m ░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░")
-print"\033[1;96mDEV   :  \033[1;95mMUHAMMAD YOUSUF"
-print"\033[1;96mTOOL  :  \033[1;95mFACEBOOK BRUTEFORCE "
+print"\033[1;96mDEV   :  \033[1;95mRK NAHID"
+print"\033[1;96mTOOL  :  \033[1;95mFACEBOOK RK-NAHID "
 print"\033[1;94m---------------------------------------"
 print""
 
 print ("\033[1;91m===================================")
 
-CorrectUsername = "Yousuf"
-CorrectPassword = "Yousuf"
+CorrectUsername = "Rk"
+CorrectPassword = "Rk"
 
 loop = 'true'
 while (loop == 'true'):
@@ -46,15 +46,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;92m🔑\x1b[1;93mTool Password  \x1b[1;96m == \x1b[1;95m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev: Yousuf
+            print "Logged in successfully as " + username #Dev: Rk
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://youtu.be/Vcg8yW4pwsw')
+            os.system('xdg-open https://www.youtube.com/channel/UCil2tcF-xVmaQL2IV2MmQxg')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://youtu.be/Vcg8yW4pwsw')
+        os.system('xdg-open https://www.youtube.com/channel/UCil2tcF-xVmaQL2IV2MmQxg')
 
 print ("\033[1;91m===================================")
 
@@ -72,7 +72,7 @@ time.sleep(0.1)
 print '\n\nCracking '+user+' Now...'
 
 time.sleep(0.1)
-print '\n\033[1;96m###############💀 YOUSUF  💀##############\n'
+print '\n\033[1;96m###############💀 NAHID  💀##############\n'
 for password in wordlist:
     if password == '' or password == ' ':
         pass
